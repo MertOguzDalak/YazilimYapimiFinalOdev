@@ -1,0 +1,30 @@
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe.config
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.pdb
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csprojAssemblyReference.cache
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Form1.resources
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Properties.Resources.resources
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.GenerateResource.cache
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.CoreCompileInputs.cache
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.exe
+D:\Yazılım Yapımı Ödev\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.pdb
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe.config
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.pdb
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csprojAssemblyReference.cache
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Form1.resources
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Properties.Resources.resources
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.GenerateResource.cache
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.CoreCompileInputs.cache
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.exe
+D:\YAZILIM YAPIMI İŞLEM KISMI\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.pdb
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe.config
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.exe
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\bin\Debug\yazilim_yapimi_islem_kismi.pdb
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csprojAssemblyReference.cache
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Form1.resources
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.Properties.Resources.resources
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.GenerateResource.cache
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.csproj.CoreCompileInputs.cache
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.exe
+D:\Mert Dosyalar\Yazılım Yapımı Vize-Final\Yazılım Yapımı İşlem Kısmı (Vize)\yazilim_yapimi_islem_kismi\yazilim_yapimi_islem_kismi\obj\Debug\yazilim_yapimi_islem_kismi.pdb
